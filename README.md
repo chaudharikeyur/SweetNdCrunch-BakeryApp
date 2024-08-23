@@ -1,5 +1,5 @@
 Pastry App
-Pastry App is a web application built with React, HTML, and Tailwind CSS that allows users to browse and manage a selection of delicious pastries. This app leverages React hooks, such as useState, to manage state and react-use-cart for handling cart functionality.
+Pastry App is a responsive web application built with React, HTML, Vite and Tailwind CSS that allows users to browse and manage a selection of delicious pastries. This app leverages React hooks, such as useState, to manage state and react-use-cart for handling cart functionality.
 
 Features
 Browse Pastries: Explore a variety of artisanal pastries with a clean, responsive UI.
@@ -15,4 +15,5 @@ useState: For managing component state in React.
 
 
 
+![Screenshot (66)](https://github.com/user-attachments/assets/12d040a4-1365-4b3a-a21d-6acfddbb146a)
 
