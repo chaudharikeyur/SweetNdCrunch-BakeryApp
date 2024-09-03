@@ -1,7 +1,7 @@
 
 
-Pastry App
-Pastry App is a modern web application designed for discovering and managing a delightful assortment of pastries. Built with a combination of React, Firebase, and Tailwind CSS, this app offers a seamless and responsive user experience.
+Sweet Nd Crunch
+(Pastry App) is a modern web application designed for discovering and managing a delightful assortment of pastries. Built with a combination of React, Firebase, and Tailwind CSS, this app offers a seamless and responsive user experience.
 =======
 Features
 Our application provides a seamless experience for exploring and managing a variety of artisanal pastries and namkeen. Below is a summary of the key features:
@@ -29,14 +29,6 @@ Backend: Firebase Firestore for database services, Firebase Authentication for u
 <<<<<<< HEAD
 =======
 
->>>>>>> d0f68b2ed9614506ec5e01402459fbb86447c73f
-Technologies Used
-React: For building the user interface and handling state management.
-HTML: For structuring the content of the app.
-Tailwind CSS: For styling and creating a responsive layout.
-react-use-cart: For cart management functionality.
-useState: For managing component state in React.
-<<<<<<< HEAD
 Installation
 To get started with the Pastry App, clone this repository and install the dependencies:
 
