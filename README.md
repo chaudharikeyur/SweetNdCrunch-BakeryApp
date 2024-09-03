@@ -1,5 +1,5 @@
 
-<<<<<<< HEAD
+
 Pastry App
 Pastry App is a modern web application designed for discovering and managing a delightful assortment of pastries. Built with a combination of React, Firebase, and Tailwind CSS, this app offers a seamless and responsive user experience.
 =======
