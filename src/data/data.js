@@ -2,7 +2,7 @@ export const stockData =[
     {
         "id" : 2,
         "image": "https://images6.alphacoders.com/877/thumb-1920-877206.jpg" ,
-        "name": "Waffle with Berries",
+        "name": "Chocolate Pastry",
         "category": "Waffle",
         "price": 6.50
     },
@@ -38,7 +38,7 @@ export const stockData =[
     },
     {
         "id" : 8,
-        "image":"https://cdn.pixabay.com/photo/2023/07/23/20/44/pastry-shop-8145805_640.jpg",
+        "image":"https://images6.alphacoders.com/877/thumb-1920-877206.jpg",
         "name": "Salted Caramel Brownie",
         "category": "Brownie",
         "price": 4.50

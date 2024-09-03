@@ -1,8 +1,28 @@
-# React + Vite
+Pastry App
+Pastry App is a web application built with React, HTML, and Tailwind CSS that allows users to browse and manage a selection of delicious pastries. This app leverages React hooks, such as useState, to manage state and react-use-cart for handling cart functionality.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Browse Pastries: Explore a variety of artisanal pastries with a clean, responsive UI.
+Manage Cart: Add, remove, and view items in your cart with real-time updates.
+Responsive Design: Enjoy a seamless experience across devices, thanks to Tailwind CSS.
+Technologies Used
+React: For building the user interface and handling state management.
+HTML: For structuring the content of the app.
+Tailwind CSS: For styling and creating a responsive layout.
+react-use-cart: For cart management functionality.
+useState: For managing component state in React.
+Installation
+To get started with the Pastry App, clone this repository and install the dependencies:
 
-Currently, two official plugins are available:
+bash
+Copy code
+git clone https://github.com/yourusername/pastry-app.git
+cd pastry-app
+npm install
+Then, run the app with:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+bash
+Copy code
+npm start
+Contributing
+Feel free to open issues or submit pull requests if you'd like to contribute to the development of the Pastry App.
