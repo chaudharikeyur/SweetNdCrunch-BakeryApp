@@ -1,7 +1,7 @@
 
 
 Sweet Nd Crunch
-(Pastry App) is a modern web application designed for discovering and managing a delightful assortment of pastries. Built with a combination of React, Firebase, and Tailwind CSS, this app offers a seamless and responsive user experience.
+(Bakery App) is a modern web application designed for discovering and managing a delightful assortment of pastries. Built with a combination of React, Firebase, and Tailwind CSS, this app offers a seamless and responsive user experience.
 =======
 Features
 Our application provides a seamless experience for exploring and managing a variety of artisanal pastries and namkeen. Below is a summary of the key features:
