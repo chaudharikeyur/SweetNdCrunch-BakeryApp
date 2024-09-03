@@ -26,13 +26,15 @@ Technologies Used
 Frontend: Tailwind CSS for responsive and modern UI design.
 JavaScript Framework: React (or your chosen framework) for dynamic and interactive components.
 Backend: Firebase Firestore for database services, Firebase Authentication for user management, and Firebase Hosting for deployment.
-<<<<<<< HEAD
 =======
 
 
+![Screenshot (72)](https://github.com/user-attachments/assets/dfa193da-2b1f-4910-bb70-fcaaac0f9c5f)
+![Screenshot (71)](https://github.com/user-attachments/assets/d51c9ade-c6c0-43d7-aa71-f85aacefb089)
 
 
-![Screenshot (66)](https://github.com/user-attachments/assets/12d040a4-1365-4b3a-a21d-6acfddbb146a)
+![Screenshot (70)](https://github.com/user-attachments/assets/5d76c563-32dd-490f-abb1-faff7db4d620)
+
 
 ![Screenshot (67)](https://github.com/user-attachments/assets/83ca82f1-d4d3-4f64-ac91-6c918e058b5a)
 
