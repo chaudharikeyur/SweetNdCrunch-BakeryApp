@@ -29,14 +29,6 @@ Backend: Firebase Firestore for database services, Firebase Authentication for u
 =======
 
 
-![Screenshot (72)](https://github.com/user-attachments/assets/dfa193da-2b1f-4910-bb70-fcaaac0f9c5f)
-![Screenshot (71)](https://github.com/user-attachments/assets/d51c9ade-c6c0-43d7-aa71-f85aacefb089)
-
-
-![Screenshot (70)](https://github.com/user-attachments/assets/5d76c563-32dd-490f-abb1-faff7db4d620)
-
-
-![Screenshot (67)](https://github.com/user-attachments/assets/83ca82f1-d4d3-4f64-ac91-6c918e058b5a)
-
-
->>>>>>> d0f68b2ed9614506ec5e01402459fbb86447c73f
+![Screenshot (70)](https://github.com/user-attachments/assets/bdf8e726-2827-480e-99c3-a06da6a83021)
+![Screenshot (71)](https://github.com/user-attachments/assets/dc061f5c-ba20-4994-b4f5-6bfce1923cdf)
+![Screenshot (72)](https://github.com/user-attachments/assets/2919fa67-d6e4-4afc-8dc0-781a221ebe59)
