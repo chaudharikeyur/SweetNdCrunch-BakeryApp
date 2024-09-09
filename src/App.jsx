@@ -1,13 +1,13 @@
 import Entry from "./Entry";
 import Home from "./components/Home";
 import Aboutus from './components/Aboutus';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
 import ContactPage from "./components/Contact";
 function App() {
 
 
   return (
-    <BrowserRouter>
+    <HashRouter>
     <Routes>
    
         <Route index element={<Home/>} />
@@ -18,7 +18,7 @@ function App() {
         <Route path="*" element={<NoPage />} /> */}
       {/* </Route> */}
     </Routes>
-  </BrowserRouter>
+  </HashRouter>
   
     // <Home/>
     // <Entry />

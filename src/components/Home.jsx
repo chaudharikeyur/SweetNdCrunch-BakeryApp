@@ -6,6 +6,16 @@ import myi from '../assets/lo.png'
 
 
 function Home(){
+  const backgroundImageUrl = '';
+
+  // Inline style object
+  const divStyle = {
+    backgroundImage: `url(${backgroundImageUrl})`,
+    backgroundSize: 'cover', // Optional: makes the background image cover the entire div
+    backgroundPosition: 'center', // Optional: centers the background image
+    width: '100%', // Optional: sets the width of the div
+    height: '400px' // Optional: sets the height of the div
+  };
     const { loginWithRedirect } = useAuth0();
     const { logout , isAuthenticated ,  user } = useAuth0();
 
@@ -16,7 +26,7 @@ function Home(){
       <header className="h-20 flex items-center justify-between px-4 sm:px-6 lg:px-8">
         {/* Logo Section */}
         <div className="h-20 sm:h-20 md:ml-10 mt-1">
-          <img src={myImage} alt="Description of image" className="h-full object-contain" />
+          <img src={myImage}  alt="Description of image" className="h-full object-contain" />
         </div>
 
         {/* Navigation Section */}

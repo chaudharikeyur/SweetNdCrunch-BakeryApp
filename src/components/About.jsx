@@ -30,9 +30,10 @@ function About(){
         >
           Buy Now
         </NavLink> }
+        {/* animate-scroll */}
         {!isAuthenticated && 
-           <p className="text-lg md:text-xl lg:text-2xl font-bold text-gray-700 animate-scroll">
-          Welcome to Sweet Nd Crunch! <span className='text-3xl text-red-600'>Sign Up/Sign In </span>and Discover our delicious range of pastries and cakes !
+           <p className="text-lg md:text-xl lg:text-xl font-bold text-gray-700 text-center">
+          Welcome to Sweet Nd Crunch! <span className='text-2xl text-red-600 '>Sign Up/Sign In </span>and Discover our delicious range of pastries !
         </p>
   
         }
