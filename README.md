@@ -16,7 +16,7 @@ Real-Time Updates: Cart updates are handled in real-time using Firebase Firestor
 Cart Management: The cart interface displays current items, quantities, and the total price, providing a smooth shopping experience.
 3. User Authentication
 Login/Logout: Users can create an account, log in, and log out securely.
-Account Management: Firebase Authentication is used to manage user sessions and credentials, ensuring a secure and user-friendly authentication process.
+Account Management: Auth.0 Authentication is used to manage user sessions and credentials, ensuring a secure and user-friendly authentication process.
 Personalized Experience: Logged-in users can access personalized features and track their order history.
 4. Firebase Integration
 Data Storage: All product data, including pastries and namkeen, as well as customer reviews, are stored in Firebase Firestore.
